@@ -1,6 +1,14 @@
 # Pizza-Ecom
 it is pizza ecom webpage is used place an order.
 
+#Run frontend
+
+npm start
+
+#Run backend
+
+node index.js
+
 #Output
 
 
